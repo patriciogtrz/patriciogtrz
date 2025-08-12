@@ -4,7 +4,7 @@
 
 ---
 
-I am a second-year psychiatry resident in Monterrey, Mexico. My professional focus lies in the integration of neuroscience, computational methods, and clinical psychiatry to advance the understanding, diagnosis, and treatment of mental disorders. I aim to bridge clinical practice with technology-driven solutions to enable scalable and evidence-based interventions.
+I am a second-year psychiatry resident in Mexico. My professional focus lies in the integration of neuroscience, computational methods, and clinical psychiatry to advance the understanding, diagnosis, and treatment of mental disorders. I aim to bridge clinical practice with technology-driven solutions to enable scalable and evidence-based interventions.
 
 ---
 
