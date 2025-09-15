@@ -1,6 +1,6 @@
 # Welcome
 
-**Psychiatry Resident | Neuroscience and Cognitive Research | Computational Psychiatry | Health Technology Development | Python Enthusiast**
+**Psychiatry Resident | Health Technology Development | Python Enthusiast**
 
 ---
 
